@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ramones90",
+  "repo": "container-c4iaupe",
+  "name": "ramones90",
+  "email": "ramonreis64@gmail.com",
+}
